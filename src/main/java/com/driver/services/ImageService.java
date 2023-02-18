@@ -48,7 +48,7 @@ public class ImageService {
         int imgl = Integer.parseInt(imgarray[0]); //A -- > integer
         int imgb = Integer.parseInt(imgarray[1]); //B -- > integer
 
-        return no_Images(scrl,scrb,imgl,imgb)-1;
+        return no_Images(scrl,scrb,imgl,imgb);
 
     }
 
